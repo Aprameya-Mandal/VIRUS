@@ -1,0 +1,76 @@
+([('virus.exe',
+   'C:\\Users\\Mita\\Desktop\\VIRUS\\build\\virus\\virus.exe',
+   'EXECUTABLE'),
+  ('virus.exe.manifest',
+   'C:\\Users\\Mita\\Desktop\\VIRUS\\build\\virus\\virus.exe.manifest',
+   'BINARY'),
+  ('python37.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\python37.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('pythoncom37.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\site-packages\\pywin32_system32\\pythoncom37.dll',
+   'BINARY'),
+  ('pywintypes37.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\site-packages\\pywin32_system32\\pywintypes37.dll',
+   'BINARY'),
+  ('select',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_cpyHook',
+   'C:\\Users\\Mita\\AppData\\Roaming\\Python\\Python37\\site-packages\\pyHook\\_cpyHook.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('_win32sysloader',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Mita\\Desktop\\VIRUS\\build\\virus\\base_library.zip',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\Include\\pyconfig.h',
+   'DATA')],)
